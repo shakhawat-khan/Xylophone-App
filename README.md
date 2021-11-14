@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+set distributionUrl=https\://services.gradle.org/distributions/gradle-7.2-all.zip in gradle->wrapper
+
+set kotlin version '1.4.21' in android->build.gradle 
